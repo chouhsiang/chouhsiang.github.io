@@ -7,6 +7,7 @@
 - [20221216 解決Cloudflare WARP無法取得使用者IP](https://chouhsiang.medium.com/%E8%A7%A3%E6%B1%BAcloudflare-warp%E7%84%A1%E6%B3%95%E5%8F%96%E5%BE%97ip-e037675204af)
 
 ## Mail
+- [20221219 教你用十分鐘信箱寄信](https://chouhsiang.medium.com/%E6%95%99%E4%BD%A0%E7%94%A8%E5%8D%81%E5%88%86%E9%90%98%E4%BF%A1%E7%AE%B1%E5%AF%84%E4%BF%A1-db1554b40b48)
 - [20221217 Mail伺服器混合架構](https://chouhsiang.medium.com/mail%E4%BC%BA%E6%9C%8D%E5%99%A8%E6%B7%B7%E5%90%88%E6%9E%B6%E6%A7%8B-22fe9a55dd4a)
 
 ## LINE
