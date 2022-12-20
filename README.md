@@ -7,6 +7,7 @@
 - [20221216 解決Cloudflare WARP無法取得使用者IP](https://chouhsiang.medium.com/%E8%A7%A3%E6%B1%BAcloudflare-warp%E7%84%A1%E6%B3%95%E5%8F%96%E5%BE%97ip-e037675204af)
 
 ## Mail
+- [20221221 Mail2000 & Mailgates必開防護設定](https://chouhsiang.medium.com/mail2000-mailgates%E5%BF%85%E9%96%8B%E9%98%B2%E8%AD%B7%E8%A8%AD%E5%AE%9A-78cdbf6f1222)
 - [20221220 談談用Google Groups寄信的機制](https://chouhsiang.medium.com/%E8%AB%87%E8%AB%87%E7%94%A8google-groups%E5%AF%84%E4%BF%A1%E7%9A%84%E6%A9%9F%E5%88%B6-3fe2e5fdea15)
 - [20221219 以Gmail幫十分鐘信箱寄信](https://chouhsiang.medium.com/%E6%95%99%E4%BD%A0%E7%94%A8%E5%8D%81%E5%88%86%E9%90%98%E4%BF%A1%E7%AE%B1%E5%AF%84%E4%BF%A1-db1554b40b48)
 - [20221217 Mail伺服器混合架構](https://chouhsiang.medium.com/mail%E4%BC%BA%E6%9C%8D%E5%99%A8%E6%B7%B7%E5%90%88%E6%9E%B6%E6%A7%8B-22fe9a55dd4a)
