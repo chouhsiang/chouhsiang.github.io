@@ -3,7 +3,7 @@
 
 
 ## <img src="https://user-images.githubusercontent.com/18009324/208820524-7823d762-3e6e-4150-bd62-20fe3e0fdcd6.png" height="20"> Cloudflare
-- [20221218 以Gmail來收發Cloudflare電子郵件路由的信件](https://chouhsiang.medium.com/%E6%95%99%E4%BD%A0%E7%94%A8cloudflare%E9%9B%BB%E5%AD%90%E9%83%B5%E4%BB%B6%E8%B7%AF%E7%94%B1-c076b7f2157a)
+- [20221218 以Gmail、Outlook.com來收發Cloudflare電子郵件路由的信件](https://chouhsiang.medium.com/%E6%95%99%E4%BD%A0%E7%94%A8cloudflare%E9%9B%BB%E5%AD%90%E9%83%B5%E4%BB%B6%E8%B7%AF%E7%94%B1-c076b7f2157a)
 - [20221216 解決Cloudflare WARP無法連線LINE、Signal](https://medium.com/@chouhsiang/%E8%A7%A3%E6%B1%BAcloudflare-warp%E7%84%A1%E6%B3%95%E5%8F%96%E5%BE%97ip-e037675204af)
 - [20221216 解決Cloudflare WARP無法取得使用者IP](https://chouhsiang.medium.com/%E8%A7%A3%E6%B1%BAcloudflare-warp%E7%84%A1%E6%B3%95%E5%8F%96%E5%BE%97ip-e037675204af)
 
